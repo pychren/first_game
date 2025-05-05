@@ -1,4 +1,5 @@
-res://scenes/killzone.tscn
+res://scripts/slime.gd
 res://scenes/game.tscn
 res://scenes/player.tscn
-res://scripts/killzone.gd
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
