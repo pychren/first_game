@@ -212,10 +212,9 @@ _data = {
 [node name="Game" type="Node2D"]
 
 [node name="Player" parent="." instance=ExtResource("1_uwrxv")]
-position = Vector2(160, 3)
+position = Vector2(1013, 20)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
-position = Vector2(-1, 5)
 zoom = Vector2(4, 4)
 limit_bottom = 200
 
